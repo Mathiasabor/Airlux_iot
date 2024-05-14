@@ -1,0 +1,8 @@
+//
+// Created by Abor on 15/05/2024.
+//
+
+#ifndef CAPTEUR_TEMPERATURE_H
+#define CAPTEUR_TEMPERATURE_H
+
+#endif //CAPTEUR_TEMPERATURE_H
